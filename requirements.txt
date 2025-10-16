@@ -1,0 +1,6 @@
+fpdf2
+pyttsx3
+streamlit
+pandas
+matplotlib
+opcua
