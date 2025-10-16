@@ -114,14 +114,6 @@ Je tiens à remercier :
 
 ---
 
-✅ Avec ce README :  
-- Le **projet est clair pour tout visiteur**  
-- La **vidéo YouTube est intégrée**  
-- La **structure des dossiers** est explicitée  
-- Instructions pour **installer et lancer le projet** sont incluses  
-
----
-
 Si tu veux, je peux maintenant te **préparer un petit README pour chaque dossier** (`alarm`, `database`, `ui`, etc.) pour expliquer ce que fait chaque script et dossier.  
 
 Veux‑tu que je fasse ça ?
